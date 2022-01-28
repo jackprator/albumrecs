@@ -2,8 +2,8 @@
 
 $server   = "localhost";
 $database = "jacktdxq_albumrecs";
-$username = "jacktdxq_jack1325wd";
-$password = "Bear1325#";
+$username = "root";
+$password = "";
 
 $conn = mysqli_connect($server, $username, $password, $database);
 
